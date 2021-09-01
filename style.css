@@ -1,4 +1,4 @@
-body {background-color:black;font-family:arial;color:white}
+body{background-color:black;font-family:arial;color:white}
 h1{color:grey;font-family:verdana}
 .maindiv {
     background-color:white;
@@ -8,4 +8,4 @@ h1{color:grey;font-family:verdana}
     border-radius:25px;
     align:center
 }
-mark {background-color:yellow}
+mark{background-color:yellow}
